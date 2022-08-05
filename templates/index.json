@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "+923082564569",
+            "heading": "Image banner",
             "heading_size": "h0"
           }
         },
@@ -35,7 +35,6 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/man-hiking-in-mountains.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
